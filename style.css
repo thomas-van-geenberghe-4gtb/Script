@@ -1,0 +1,16 @@
+
+body{background-color: #89aba9;
+}   
+#about{display: flex;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; padding: 2px;}
+.col {border : rgb(0, 0, 0) 3px dashe; border-radius: 20px;
+    padding: 20px; background-color: rgb(255, 255, 255); ;
+}
+a:hover{color: blueviolet;}
+header{background-color: white;
+    background-size: 9cm; border-radius: 20px; padding: 2px;
+    text-align: center;
+}
+header,footer,#about{padding: 5px;}.right {border-left:rgb(0, 0, 0) dashed;}
+
+.left{border-left: rgb(0,0,0)dashed ;}
