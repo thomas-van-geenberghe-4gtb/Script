@@ -94,15 +94,25 @@ header nav li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family:initial;
+    font-family: initial;
 }
 
 img {
     width: 100%;
 }
-#Membership img {width: 50px;}
-#catogorien  {display: flex;
-justify-content:center;
-align-items: center;
-font-family:initial ;
+
+#Membership img {
+    width: 50px;
+}
+
+#catogorien {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: initial;
+}
+
+#news img {
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
 }
