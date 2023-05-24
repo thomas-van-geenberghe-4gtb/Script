@@ -116,3 +116,13 @@ img {
     aspect-ratio: 3 / 2;
     object-fit: cover;
 }
+footer i { margin-left: 1ch
+    ; font-size: 1.6rem;}
+footer{
+        padding: 5vw 10vw;
+        background-color: #000000;
+        color: #ffffff;
+    }
+footer .flex-container:first-child {
+        margin-bottom: 2rem;
+    }
